@@ -1,2 +1,7 @@
-# time-series-forecasting-and-customer-segmentation
-Final Project dari VIX Rakamin (Kalbe Nutritionals) tentang Time Series Forecasting menggunakan ARIMA dan Customer Segmentation menggunaka KMeans Clustering
+# Kalbe Nutritionals Product Quantity Forecasting and Customer Segmentation
+
+## Project Overview
+- Predict the quantity of products sold every day so the company team can make a sufficient daily stock.
+- Make a customer segmentation based on some criteria so the company team can give a personalized promotion and sales treatment.
+- The dataset was from the Project-based Internship of Kalbe Nutritionals x Rakamin. 
+
